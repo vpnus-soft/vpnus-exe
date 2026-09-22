@@ -1,1 +1,1 @@
-# vpnus-exe
+# vpnus-desktop
